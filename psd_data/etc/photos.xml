@@ -1,0 +1,131 @@
+<gallery
+base = ""
+background = "#FFFFFF"
+banner = "#F0F0F0"
+text = "#000000"
+link = "#0000FF"
+alink = "#FF0000"
+vlink = "#800080"
+date = "2025-04-21">
+	<sitename>Adobe Ïõπ Ìè¨ÌÜ† Í∞§Îü¨Î¶¨</sitename>
+	<photographer></photographer>
+	<contactinfo></contactinfo>
+	<email></email>
+	<security><![CDATA[]]> </security>
+
+<banner font = "±º∏≤√º" fontsize = "3" color =  "#F0F0F0"> </banner>
+<thumbnail base ="thumbnails/" font = "±º∏≤√º" fontsize = "4" color = "#F0F0F0" border = "0" rows = "3" col = "5"> </thumbnail> 
+<large base ="images/" font = "±º∏≤√º" fontsize = "3" color = "#F0F0F0" border = "0"> </large>
+<images id = "images">
+
+<image
+path = "SUN01.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN01.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN02.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN02.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN03.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN03.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN04.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN04.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN05.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN05.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN06.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN06.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN07.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN07.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN08.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN08.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN09.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN09.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN10.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN10.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+
+<image
+path = "SUN11.jpg"
+width = "350"
+height = "233"
+thumbpath = "SUN11.jpg"
+thumbwidth = "75"
+thumbheight = "50">
+</image>
+
+</images>
+</gallery>

@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>test4_목록</title>
+</head>
+<body>
+    <ol>
+        <li>하나</li>
+        <li>둘</li>
+        <li>셋</li>
+    </ol>
+    <ul>
+        <li>하나</li>
+        <li>둘</li>
+        <li>셋</li>
+    </ul>
+</body>
+</html>
+
+
+
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    ul.custom-list {
+      list-style: none; /* 기본 기호 제거 */
+      padding-left: 0;
+    }
+
+    ul.custom-list li::before {
+      content: "◆ ";
+      color: teal;
+      margin-right: 6px;
+    }
+  </style>
+</head>
+<body>
+  <ul class="custom-list">
+    <li>하나</li>
+    <li>둘</li>
+    <li>셋</li>
+  </ul>
+</body>
+</html>
